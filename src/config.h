@@ -7,5 +7,5 @@
 // Endpoint
 #define API_ENDPOINT  "http://192.168.0.1:8080/thmetrix/test"
 
-// Поведение
+// Behaviour
 #define SEND_INTERVAL 5000
