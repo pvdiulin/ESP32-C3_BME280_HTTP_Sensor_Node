@@ -28,7 +28,7 @@ This project is designed for simple environmental monitoring scenarios such as b
 
 ### Wiring
 
-| BME280 Pin | ESP32-C3 Pin |
+| BME280 | ESP32-C3 |
 |------------|--------------|
 | VIN        | 5V  |
 | GND        | GND |
