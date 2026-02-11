@@ -5,7 +5,7 @@
 #define WIFI_PASSWORD ""
 
 // Endpoint
-#define API_ENDPOINT  "http://192.168.0.1:8080/thmetrix/test"
+#define API_ENDPOINT  "http://your-server/api/sensor"
 
 // Behaviour
 #define SEND_INTERVAL 5000
