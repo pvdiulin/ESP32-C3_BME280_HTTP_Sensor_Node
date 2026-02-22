@@ -1,4 +1,4 @@
-# ESP32-C3 Super Mini BME280 HTTP Sensor Node
+# ESP32-C3 SuperMini BME280 HTTP Sensor Node
 
 A lightweight IoT firmware for **ESP32-C3 SuperMini** that reads environmental data from a **BME280 sensor** and periodically sends measurements as JSON to a remote HTTP endpoint.
 
